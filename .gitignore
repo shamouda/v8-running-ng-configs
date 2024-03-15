@@ -2,3 +2,6 @@
 /_*
 /builds
 /.vscode
+*.o
+*.so
+*_test
